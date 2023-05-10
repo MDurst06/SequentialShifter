@@ -16,25 +16,25 @@ Das Ziel des Projektes ist, eine sequentielle Gangschaltung zu bauen, die ermög
 
 Für den Bau wurden folgende Komponenten eingesetzt:
 
--1x Mainbody
--1x Schaltwelle
--1x unterblatte
--4x Switch Spacers
--1x Schaltknauf
+- 1x Mainbody
+- 1x Schaltwelle
+- 1x unterblatte
+- 4x Switch Spacers
+- 1x Schaltknauf
 
--1x M12 Schraube 75mm lang mit 2x M12 Nylock-Mutter
--2x Switches
--1x Arduino Pro Micro
--1x Micro USB cable
--4x M3 (Sechskantkopf) Schrauben 70mm lang
--4x M3 Unterlegscheiben
--4x M3 Nylock-Mutter
--1x M10x1.5 Schraube ~65mm long
--2x M10x1.5 (Sechskantkopf) 30-35mm lange Schraube
--Drähte für das verlöten der Switches
--Lötmaterial
--2x Federn (1.4mm14mm Durchmesser, Länge: 40mm )
--2x M12x1.75 Kugelstößel
+- 1x M12 Schraube 75mm lang mit 2x M12 Nylock-Mutter
+- 2x Switches
+- 1x Arduino Pro Micro
+- 1x Micro USB cable
+- 4x M3 (Sechskantkopf) Schrauben 70mm lang
+- 4x M3 Unterlegscheiben
+- 4x M3 Nylock-Mutter
+- 1x M10x1.5 Schraube ~65mm long
+- 2x M10x1.5 (Sechskantkopf) 30-35mm lange Schraube
+- Drähte für das verlöten der Switches
+- Lötmaterial
+- 2x Federn (1.4mm14mm Durchmesser, Länge: 40mm )
+- 2x M12x1.75 Kugelstößel
 
 ## 4.   Arbeitsschritte
 
